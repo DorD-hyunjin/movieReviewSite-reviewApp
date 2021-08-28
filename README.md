@@ -19,41 +19,37 @@
 
 ## Project overall image
 
-#### 1. site main 
-
-<img src="README.assets/image-20210828031426548.png" alt="main" style="zoom:60%;" />
-
-<img src="README.assets/image-20210828031426548.png" alt="image-20210828031426548" style="zoom:60%;" />
+#### 1. site main ![image-20210828031426548](README.assets/image-20210828031426548.png)
 
 
 
 #### 2. movie app main
 
-<img src="README.assets/image-20210828031505274.png" alt="image-20210828031505274" style="zoom:58%;" />
+
 
 
 
 #### 3. review app main
 
-<img src="README.assets/image-20210828031545852.png" alt="image-20210828031545852" style="zoom:60%;" />
+
 
 
 
 #### 4. community app main
 
-<img src="README.assets/image-20210828031619279.png" alt="image-20210828031619279" style="zoom:58%;" />
+
 
 
 
 #### 5. master app main
 
-<img src="README.assets/image-20210828031655313.png" alt="image-20210828031655313" style="zoom:60%;" />
+
 
 
 
 #### 6. directory structure
 
-![image-20210828031218802](README.assets/image-20210828031218802.png)
+
 
 
 
