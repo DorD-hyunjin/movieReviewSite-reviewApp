@@ -55,24 +55,48 @@
 
 
 ## My app: review from here!
+1. review main page description
 ![image-20210828031545852](https://user-images.githubusercontent.com/86950182/131206400-c451e26a-ffd5-4096-ac71-06023644664e.png)
 
+- table : number, movie, title, star, author, create date, like, unlike, hit
 ![review_nevbar](https://user-images.githubusercontent.com/86950182/131206427-d8968855-a950-4c1c-8cac-6ea7ab015991.jpg)
 
+- sort : latest order, star, like
 ![review_sort](https://user-images.githubusercontent.com/86950182/131206434-93b52f62-c319-40de-96e4-3f9af6bd15f6.jpg)
 
+- paging : fixing 10per page and first, previous, next, final page button 
 ![review_paging](https://user-images.githubusercontent.com/86950182/131206438-f8e04cab-83d5-4143-9bbe-7ab876f86566.jpg)
 
+- search : all, title+cotent, movie, author
 ![review_search](https://user-images.githubusercontent.com/86950182/131206440-09c5d8d4-4aea-4276-84ef-bc097b51c5c4.jpg)
 
+
+2. not login state click review create button
 ![review_login](https://user-images.githubusercontent.com/86950182/131206403-75f567f8-1e49-4fd7-aaca-acbb21fe8fad.jpg)
+
+3. review create page : fill out the movie, title, star, content and click create button
 ![review_create](https://user-images.githubusercontent.com/86950182/131206409-c62681b0-0ded-490a-b2e5-4f205ff5a2cd.jpg)
+
+4. my review : you can see modify and delete button (only you!) 
 ![review_myreview](https://user-images.githubusercontent.com/86950182/131206522-0cc9812f-99e1-4da3-b95f-de6dd2cbd3ae.jpg)
+
+5. click modify button : modifing page 
 ![review_modify](https://user-images.githubusercontent.com/86950182/131206412-dd2c1e76-3a1e-42f0-9674-059fced1abd3.jpg)
+
+6. click delete button : check message
 ![review_delete](https://user-images.githubusercontent.com/86950182/131206418-3a7ca600-eaac-4d5c-90cb-64c305b57e74.jpg)
 
+7. other people review
 ![review_inpage](https://user-images.githubusercontent.com/86950182/131206479-f0955c35-1d14-4cdf-b227-07ef8cbbeb5e.jpg)
+
+8. click link copy button : copy complete message
 ![review_cp_link](https://user-images.githubusercontent.com/86950182/131206460-e63b9722-d467-48e3-bff4-54908d479642.jpg)
+
+9. like and unlike button, previous and next review button, back to list button
 ![review_inpage_footer](https://user-images.githubusercontent.com/86950182/131206463-d9454c51-ef4a-44bd-8867-61823e22a4ab.jpg)
 
+10. click like or unlike your review : alter message(you don't click this button!)
 ![review_cannot_like](https://user-images.githubusercontent.com/86950182/131206456-64ce6c80-d6a6-45e6-a120-533351cce699.jpg)
+
+Thank you for reading my app description!
+Have a nice day😁😁😁
